@@ -1,0 +1,51 @@
+{
+  "description": "Real-world landmark reference photographs used for visible reference cards and original stylized geometry. No downloaded 3D models are included.",
+  "assets": [
+    {
+      "id": "vidhana-soudha",
+      "name": "Vidhana Soudha, Bengaluru",
+      "path": "public/landmarks/vidhana-soudha.jpg",
+      "url": "/landmarks/vidhana-soudha.jpg",
+      "kind": "photograph",
+      "author": "Wilhelm Tell DCCXLVI",
+      "source": "https://commons.wikimedia.org/wiki/File:Vidhana_Soudha,_14_February_2022.jpg",
+      "sourceRevision": "https://commons.wikimedia.org/w/index.php?title=File:Vidhana_Soudha,_14_February_2022.jpg&oldid=855293789",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vidhana_Soudha%2C_14_February_2022.jpg/1280px-Vidhana_Soudha%2C_14_February_2022.jpg",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "public/landmarks/LICENSE-CC0-1.0.txt",
+      "width": 1280,
+      "height": 854,
+      "photographedAt": "2022-02-14",
+      "changes": "Downloaded the Commons-generated 1280px thumbnail, renamed only. No image editing by Worldline.",
+      "attribution": "Vidhana Soudha photograph by Wilhelm Tell DCCXLVI, via Wikimedia Commons, CC0 1.0.",
+      "sha256": "d88617336c40f9054ed58f7037d7d0153906328b14ac38eb33390cab1516615a",
+      "bytes": 254038
+    },
+    {
+      "id": "parliament-new-delhi",
+      "name": "New Parliament House, New Delhi",
+      "path": "public/landmarks/parliament-new-delhi.jpg",
+      "url": "/landmarks/parliament-new-delhi.jpg",
+      "kind": "photograph",
+      "author": "Ministry of Parliamentary Affairs, Government of India",
+      "source": "https://commons.wikimedia.org/wiki/File:Glimpse_of_the_new_Parliament_Building,_in_New_Delhi.jpg",
+      "originalPublisherSource": "https://pib.gov.in/photshare/132672_3_1_photoshare.aspx",
+      "originalPublisherImage": "https://static.pib.gov.in/WriteReadData/Gallery/PhotoGallery/2023/May/T20230527132672.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Glimpse_of_the_new_Parliament_Building%2C_in_New_Delhi.jpg",
+      "license": "GODL-India",
+      "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "licenseFile": "public/landmarks/LICENSE-GODL-India.pdf",
+      "width": 1024,
+      "height": 768,
+      "photographedAt": "2023-05-27",
+      "commonsFileVersion": "2024-05-11T03:05:09Z",
+      "changes": "Unmodified copy of the Commons photo version, renamed only. Commons version was cropped by Shaan Sengupta from the original Ministry photograph.",
+      "attribution": "Photograph: Ministry of Parliamentary Affairs, Government of India, via Press Information Bureau and Wikimedia Commons. Licensed under Government Open Data License - India (GODL-India).",
+      "depiction": "The new triangular Parliament House is in the foreground. The historic circular Parliament House is in the background.",
+      "nonEndorsement": "Use of this photograph does not imply endorsement of Worldline by the Government of India or its ministries.",
+      "sha256": "6933a732d01a280282dec431bc273ddb8b64eee98928ee1470b2dfd2c6b0f6cf",
+      "bytes": 419505
+    }
+  ]
+}
