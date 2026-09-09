@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.worldline
+.review-local
+docs
+research
+.firecrawl
+.git
+node_modules
+.next

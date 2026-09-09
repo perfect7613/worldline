@@ -1,0 +1,165 @@
+{
+  "name": "Cabbit population sprites",
+  "repository": "https://github.com/AntumDeluge/cabbit-collection",
+  "commit": "7660519210cf6754737c354486540d3f89498f97",
+  "license": "OGA-BY-3.0",
+  "licenseFile": "third-party/people-LICENSE-OGA-BY-3.0.txt",
+  "alternativeLicense": "CC-BY-3.0",
+  "alternativeLicenseFile": "third-party/people-LICENSE-CC-BY-3.0.txt",
+  "licenseEvidence": [
+    "https://github.com/AntumDeluge/cabbit-collection/blob/7660519210cf6754737c354486540d3f89498f97/README.md",
+    "https://opengameart.org/content/cabbit-collection",
+    "https://opengameart.org/content/24x32-characters-with-faces-big-pack"
+  ],
+  "attribution": "Population character artwork by Svetlana Kushnariova (Cabbit), lana-chan@yandex.ru; diamonddmgirl; Jordan Irwin (AntumDeluge).",
+  "changes": "Unmodified PNG copies, renamed person-01 through person-12. Rendering crops frames and scales with nearest-neighbor sampling.",
+  "rendering": {
+    "projection": "Orthogonal directional upright sprites placed in an isometric 2.5D scene; these are not eight-direction isometric renders.",
+    "sheetWidth": 72,
+    "sheetHeight": 128,
+    "frameWidth": 24,
+    "frameHeight": 32,
+    "columns": 3,
+    "rows": 4,
+    "margin": 0,
+    "spacing": 0,
+    "origin": [
+      0.5,
+      1
+    ],
+    "idle": {
+      "north": 1,
+      "east": 4,
+      "south": 7,
+      "west": 10
+    },
+    "walk": {
+      "north": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "east": [
+        3,
+        4,
+        5,
+        4
+      ],
+      "south": [
+        6,
+        7,
+        8,
+        7
+      ],
+      "west": [
+        9,
+        10,
+        11,
+        10
+      ]
+    },
+    "frameDurationMs": 150,
+    "defaultFacing": "south",
+    "filter": "nearest",
+    "notes": "Use screen-space travel direction to select a row; keep body pixels upright and set depth from the projected foot position. Clothing and skin variants identify actors visually, not model demographic attributes."
+  },
+  "assets": [
+    {
+      "id": "person-01",
+      "path": "public/people/person-01.png",
+      "url": "/people/person-01.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-f-001-light.png",
+      "sha256": "e867cd44307bea2c778c92211e6df690c141cf7a5cc248157656e5e4c7985e75",
+      "modified": false
+    },
+    {
+      "id": "person-02",
+      "path": "public/people/person-02.png",
+      "url": "/people/person-02.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-f-002-alt-brown.png",
+      "sha256": "0b6551577ad734b9a5ca03426dec63804b888b982bc7c45d1d8e3804c264bfe1",
+      "modified": false
+    },
+    {
+      "id": "person-03",
+      "path": "public/people/person-03.png",
+      "url": "/people/person-03.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-f-003-light.png",
+      "sha256": "65900b40683767be0a071bd427e07fe29651983d7bb9d23624e403e60cde7402",
+      "modified": false
+    },
+    {
+      "id": "person-04",
+      "path": "public/people/person-04.png",
+      "url": "/people/person-04.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-f-004-alt-brown.png",
+      "sha256": "c4eca4206461260b3cc49f4462c9d3c8ba0c067185e3d3f9e1c7ceec14a6e3fe",
+      "modified": false
+    },
+    {
+      "id": "person-05",
+      "path": "public/people/person-05.png",
+      "url": "/people/person-05.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-f-005-light.png",
+      "sha256": "d1f14719550a8500d12cee0b61998776c6d6afeac61d681ad42c2c915bc65963",
+      "modified": false
+    },
+    {
+      "id": "person-06",
+      "path": "public/people/person-06.png",
+      "url": "/people/person-06.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-f-006-black.png",
+      "sha256": "86532a0d4390ddd09c2e32ea0e6a8f085ee51711dc0d3f118c3728c745e00eb3",
+      "modified": false
+    },
+    {
+      "id": "person-07",
+      "path": "public/people/person-07.png",
+      "url": "/people/person-07.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-m-001-brown.png",
+      "sha256": "ab92c5b465d6d555575ddf86f9fbe42e7b958a3153f88e958b0dab3044020941",
+      "modified": false
+    },
+    {
+      "id": "person-08",
+      "path": "public/people/person-08.png",
+      "url": "/people/person-08.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-m-002-light.png",
+      "sha256": "e8cebb2ecd26afb45de7f11d32c5ffad27c13dbc80f765e508a215c11790a157",
+      "modified": false
+    },
+    {
+      "id": "person-09",
+      "path": "public/people/person-09.png",
+      "url": "/people/person-09.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-m-003-alt-brown.png",
+      "sha256": "e53b477d4d92b163c4e9af5025025483addbcb880501c80641deed5dec05eab7",
+      "modified": false
+    },
+    {
+      "id": "person-10",
+      "path": "public/people/person-10.png",
+      "url": "/people/person-10.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-m-004-light.png",
+      "sha256": "317ed3bb845ea37a9c3bb8ba0e9c3be9c75ac837d208e31db38a6c4b72af9fff",
+      "modified": false
+    },
+    {
+      "id": "person-11",
+      "path": "public/people/person-11.png",
+      "url": "/people/person-11.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-m-005-brown.png",
+      "sha256": "cb9efe59a1bddcc226c04678b84861a844296d89423289216de463bce59920a1",
+      "modified": false
+    },
+    {
+      "id": "person-12",
+      "path": "public/people/person-12.png",
+      "url": "/people/person-12.png",
+      "upstreamPath": "art/sprite/people/PNG/24x32/townfolk-adult-m-007-black.png",
+      "sha256": "358bfecb8bde2f65a8bfce661a957349f7b043bd74626c7c0dbf1fe2bb2941e8",
+      "modified": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@worldline/database",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "spacetime build --module-path ."
+  },
+  "dependencies": { "spacetimedb": "2.10.0" },
+  "devDependencies": { "typescript": "~5.6.2" }
+}

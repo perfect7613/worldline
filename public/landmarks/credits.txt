@@ -1,0 +1,15 @@
+Worldline landmark photograph credits
+
+Vidhana Soudha photograph by Wilhelm Tell DCCXLVI, via Wikimedia Commons, CC0 1.0.
+Source: https://commons.wikimedia.org/wiki/File:Vidhana_Soudha,_14_February_2022.jpg
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Changes: Downloaded the Commons-generated 1280px thumbnail, renamed only. No image editing by Worldline.
+
+Photograph: Ministry of Parliamentary Affairs, Government of India, via Press Information Bureau and Wikimedia Commons. Licensed under Government Open Data License - India (GODL-India).
+Source: https://commons.wikimedia.org/wiki/File:Glimpse_of_the_new_Parliament_Building,_in_New_Delhi.jpg
+License: https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf
+Changes: Unmodified copy of the Commons photo version, renamed only. Commons version was cropped by Shaan Sengupta from the original Ministry photograph.
+
+The Parliament photograph shows the new triangular building in front and the historic circular building behind.
+Use of these references does not imply government or photographer endorsement.
+The isometric buildings are original stylized reconstructions, not retrieved 3D scans or architectural models.

@@ -1,0 +1,23 @@
+{
+  "reviewedAt": "2026-09-05",
+  "references": [
+    {
+      "name": "sss / AsciiArt",
+      "author": "Hossain Jahed",
+      "url": "https://21st.dev/@jahed/components/sss",
+      "listedLicense": "MIT",
+      "sourceAvailability": "Public page exposes usage only; registry returned Authentication required.",
+      "use": "Visual reference for an original deterministic ASCII background. No source code or media copied.",
+      "implementation": "src/components/ui/AsciiField.tsx"
+    },
+    {
+      "name": "Profile Selector",
+      "author": "Ravi Katiyar",
+      "url": "https://21st.dev/@ravikatiyar162/components/profile-selector",
+      "listedLicense": null,
+      "sourceAvailability": "Public page contains usage and description; component source is private and license metadata is empty.",
+      "use": "Interaction reference for an original data-driven portrait selector using already licensed Cabbit sprites. No source code or media copied.",
+      "implementation": "src/components/ui/PixelTrackSelector.tsx"
+    }
+  ]
+}

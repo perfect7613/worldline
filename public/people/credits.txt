@@ -1,0 +1,6 @@
+Population character artwork by Svetlana Kushnariova (Cabbit), lana-chan@yandex.ru; diamonddmgirl; Jordan Irwin (AntumDeluge).
+Cabbit Art Collection: https://github.com/AntumDeluge/cabbit-collection
+Original artwork: https://opengameart.org/content/24x32-characters-with-faces-big-pack
+Licensed under OpenGameArt.org Attribution 3.0 (OGA BY 3.0): https://opengameart.org/content/oga-by-30-faq
+Also available under Creative Commons Attribution 3.0: https://creativecommons.org/licenses/by/3.0/
+Changes: unmodified PNG copies, renamed; displayed as cropped, scaled animation frames.
